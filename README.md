@@ -61,18 +61,21 @@ Here are some ideas to get you started:
 <!-- Connect with Me -->
 ## 🤝 Connect with Me
 🤝 I am looking for help with computer science and creating an application for programmers inspired by more than one application [Save links] (https://github.com/Mohamed7AbdELhalim/Knowledge_Archive)
+<hr>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/mohamed-a-529288232)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](I don't use it.)
 [![Portfolio](https://img.shields.io/badge/-Portfolio-4CAF50?style=flat-square&logo=googlechrome&logoColor=white)](I don't have)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](Coming soon)
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Mohamed7AbdELhalim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/mohamed-a-529288232/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/(I don't use it.))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://youtube.com/@maag9130?si=x9tadzdapofkngg9)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://msaht-programming-and-w-d.quora.com/?ch=10&oid=3116845&share=396067ef&srid=hBsZuY&target_type=tribe)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](@maeadga)  
 
 <!-- Profile Views Counter -->
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=[your-username]&color=blueviolet" alt="Profile Views" />
+
 </div>
 
 <!-- Footer -->
 <div align="center">
   <i>Happy coding!</i> 😊
+  
 </div> 
