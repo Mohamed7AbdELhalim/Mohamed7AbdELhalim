@@ -1,10 +1,10 @@
 <!-- Profile Header with Animated Text -->
 <div align="center">
-  <h1>Hi there, I'm [Your Name] 👋</h1>
+  <h1>Hi there, I'm [Mohamed Abdelhalim] 👋</h1>
   <h3>Full Stack Developer | Web Designer | Tech Enthusiast</h3>
-  
-**Mohamed7AbdELhalim/Mohamed7AbdELhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  A passionate frontend developer from Egypt
 
+**Mohamed7AbdELhalim/Mohamed7AbdELhalim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 </div>
 
 <!-- Introduction Section -->
